@@ -1,4 +1,6 @@
+
 package jp.co.ditlab.scn.common.uima;
+
 
 import java.io.File;
 import java.util.StringTokenizer;
