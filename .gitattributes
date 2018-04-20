@@ -1,3 +1,5 @@
+
+
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
@@ -61,3 +63,8 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+
+
+lib/* linguist-vendored
+doc/* linguist-documentation
